@@ -1,18 +1,20 @@
 # Voltage meter
-#### _A small voltage meter created with the use of arduino, C# an python_
+#### A small voltage meter created with the use of arduino, C# an python
 
 ## Introduction
 
 
 >The voltage meter was made with the Arduino Uno microntroller board which is operating with
-the and and a voltage sensor which can operate with a voltage up to 25v DC.
-Its a small project created with the intention to be presented and used as a learning material.
+>the and and a voltage sensor which can operate with a voltage up to 25v DC.
+>Its a small project created with the intention to be presented and used as a learning material.
 
-<p style="text-align: center;">Arduino microcontroller board</p>
+### Arduino Uno microcontroller
+
 ![Arduino Uno PinOut](https://www.jameco.com/Jameco/workshop/CircuitNotes/CN-arduino-uno-fig1-enlarge.jpg)
- <p style="text-align: center;"> Arduino Uno PinOut</p>
- ![](https://microcontrollerslab.com/wp-content/uploads/2021/03/Voltage-sensor-module-pinout-diagram.jpg)
- <p style="text-align: center;">25v DC sensor</p>
+
+### 25V DC voltage sensor
+![g](https://microcontrollerslab.com/wp-content/uploads/2021/03/Voltage-sensor-module-pinout-diagram.jpg)
+
  
 
 ## Comunication
