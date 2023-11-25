@@ -5,7 +5,7 @@
 
 
 >The voltage meter was made with the Arduino Uno microntroller board which is operating with
->the and and a voltage sensor which can operate with a voltage up to 25v DC.
+>and a voltage sensor which can operate with a voltage up to 25v DC.
 >Its a small project created with the intention to be presented and used as a learning material.
 
 ### Arduino Uno microcontroller
