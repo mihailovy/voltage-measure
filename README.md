@@ -10,7 +10,7 @@
 
 ### Arduino Uno microcontroller
 
-![Arduino Uno PinOut](tewt1.netlify.app/arduino.jpg)
+![Arduino Uno PinOut](https://tewt1.netlify.app/arduino.jpg)
 
 ### 25V DC voltage sensor
 ![g](https://microcontrollerslab.com/wp-content/uploads/2021/03/Voltage-sensor-module-pinout-diagram.jpg)
